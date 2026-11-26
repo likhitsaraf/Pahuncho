@@ -1,2 +1,0 @@
-# Pahuncho
-ride booking app
